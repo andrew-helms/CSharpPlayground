@@ -8,7 +8,7 @@ namespace CSharpPlayground
     {
         static void Main(string[] args)
         {
-            List<int[]> edges = GetGraphFromFile(@"..\..\..\Graph.txt");
+            List<int[]> edges = GetGraphFromFile(@"..\..\..\Graph.txt"); //GetGraphFromConsole();
 
             if (edges.Count == 0)
             {
