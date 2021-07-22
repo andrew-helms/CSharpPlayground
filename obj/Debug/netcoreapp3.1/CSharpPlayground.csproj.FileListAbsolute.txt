@@ -1,0 +1,13 @@
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.exe
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.deps.json
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.runtimeconfig.json
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.runtimeconfig.dev.json
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.dll
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\bin\Debug\netcoreapp3.1\CSharpPlayground.pdb
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.csprojAssemblyReference.cache
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.csproj.CoreCompileInputs.cache
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.AssemblyInfoInputs.cache
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.AssemblyInfo.cs
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.dll
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.pdb
+C:\Users\Andrew Helms\source\repos\CSharpPlayground\CSharpPlayground\obj\Debug\netcoreapp3.1\CSharpPlayground.genruntimeconfig.cache
